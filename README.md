@@ -2,7 +2,7 @@
 Mod for Farming Simulator 22 
 
 #### Description
-This Pack contains adjusted stump cutter Prinoth M650, TMC Cancela TFK 200 and THX-180 without cultivator or plow function.
+This Pack contains adjusted stump cutter Prinoth M650, TMC Cancela TFK 200 and THX-180 without cultivator or plow function.  
 FS22 Platinum Expansion is required for THX-180.
 
 #### Installation manually:
