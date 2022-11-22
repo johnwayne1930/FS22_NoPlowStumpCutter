@@ -1,4 +1,4 @@
-# FS22_NoPlowStumpCutter
+# FS22_NoPlowStumpCutter v1.0.0.0
 Mod for Farming Simulator 22 
 
 #### Description
