@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="72">
+	<author>johnwayne1930</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>No-Plow Stump Cutter</en>
+		<de>Baumstumpffräse Ohne Pflug</de>
+	</title>
+	
+	<description>
+<en><![CDATA[
+This Pack contains adjusted stump cutter Prinoth M650, TMC Cancela TFK 200 and THX-180 without cultivator or plow function.
+FS22 Platinum Expansion is required for THX-180.
+
+Prinoth M650
+Price: 41,000€
+Required power: 200 hp
+Working width: 2.3 m
+Max. working speed: 6 kph
+
+TMC Cancela TFK 200
+Price: 24,500€
+Required power: 150 hp
+Working width: 2 m
+Max. working speed: 6 kph
+
+TMC Cancela THX-180 (Platinum Expansion required)
+Price: 23,000€
+Required power: 180 hp
+Working width: 1.8 m
+]]></en>
+<de><![CDATA[
+Dieses Pack enthält die angepasste Baumstumpffräsen Prinoth M650, TMC Cancela TFK 200 und THX-180 ohne Grubber- oder Pflugfunktion.
+FS22 Platinum Expansion wird benötigt für THX-180.
+
+Prinoth M650
+Preis: 41.000€
+Benötigte Leistung: 200 PS
+Arbeitsbreite: 2,3 m
+Arbeitsgeschwindigkeit: 6 km/h
+
+TMC Cancela TFK 200
+Preis: 24.500€
+Benötigte Leistung: 150 PS
+Arbeitsbreite: 2 m
+Arbeitsgeschwindigkeit: 6 km/h
+
+TMC Cancela THX-180 (Platinum Expansion benötigt)
+Preis: 23.000€
+Benötigte Leistung: 180 PS
+Arbeitsbreite: 1,8 m
+]]></de>
+	</description>
+	
+	<!-- <dependencies>
+		<dependency>forestryPack</dependency>
+	</dependencies>	 -->
+	
+	<iconFilename>icon_npsc.dds</iconFilename>
+	<multiplayer supported="true"/>
+	
+	 <storeItems>
+		<storeItem xmlFilename="tfk200.xml"/>
+		<storeItem xmlFilename="m650.xml"/>
+		<!-- Un-comment or delete the next line if you don't own "Platinum Expansion" dlc and want to prevent log errors -->
+		<storeItem xmlFilename="thx180.xml"/>
+	</storeItems>
+</modDesc>
